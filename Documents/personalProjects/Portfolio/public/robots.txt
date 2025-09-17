@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lohit.is-a.dev/sitemap.xml 
